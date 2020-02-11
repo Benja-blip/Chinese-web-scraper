@@ -1,5 +1,7 @@
 # Chinese-web-scraper
 
+View short video demo here: https://youtu.be/nbtM0ScR6PE
+
 This web scraper is designed to regularly visit the Chinese news aggregator website, Toutiao.com. More specifically, this program does the following:
 
 1) Connect to a proxy server at a random location
