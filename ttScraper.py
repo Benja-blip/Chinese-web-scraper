@@ -59,7 +59,7 @@ def fill_temp_articles():
 
     options = Options()
     options.headless = True
-    driver = webdriver.Firefox(options=options, executable_path=r'/opt/geckodriver')
+    driver = webdriver.Firefox(options=options, executable_path=r'/path_to/geckodriver')
     print("Loading Toutiao main page.")
     driver.get('http://www.toutiao.com')
 
